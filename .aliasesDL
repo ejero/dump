@@ -1,0 +1,33 @@
+alias prod="dna-spaces-cors-proxy https://dnaspaces.io '' '' 217 "CXC" —port 9877"
+alias mike="dna-spaces-cors-proxy https://dnaspaces.io '' '' 202x "michael-zhao" —port 9877"
+alias bgprod="dna-spaces-cors-proxy https://dnaspaces.io '' '' 17432 "bgl-alpha-team" —port 9877"  
+alias dayProd="dna-spaces-cors-proxy https://dnaspaces.io '' '' 23636 "SpacesdailyProd" --port 9877"
+alias apqa="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 14650 "APLocationLab" --port 9877"
+alias apqa2="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 14650 "APLocationLab" --port 4800"
+alias qadna="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 10137 "Cisco DNA Customer Experience" --port 9877"
+
+
+alias sharang="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 11218 "Sharang" --port 9877"
+alias zhimin="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 14534 "Zhimin" --port 9877" 
+alias split1="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 14747 "spacesplitlicense1" --port 9877"
+alias split2="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 14748 "spacesplitlicense2" --port 9877"
+alias katQa="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 14662 "Katherine Cheng" --port 9877"
+alias qaclean="dna-spaces-cors-proxy http://qa-dnaspaces.io '' '' 14757 "cleautomationqa" --port 9877"
+alias testSplit="dna-spaces-cors-proxy http://qa-dnaspaces.io '' '' 14752 "splitlicensetesting" --port 9877"
+
+
+
+alias aploc="dna-spaces-cors-proxy https://dev-dnaspaces.io '' '' 2134 "AP Location 18 Lab" --port 9877" 
+alias devtest="dna-spaces-cors-proxy https://dev-dnaspaces.io '' '' 1686 "DNA Spaces IoT Dev Test" --port 9877"
+
+
+alias eudna="dna-spaces-cors-proxy https://dnaspaces.eu '' '' 11325 "SRBank" --port 9877" 
+alias eudna="dna-spaces-cors-proxy https://dnaspaces.eu '' '' 16750 "cisilion.com" --port 9877" 
+
+
+alias sg="dna-spaces-cors-proxy https://ciscospaces.sg '' '' 70041 "NTTCommunications" --port 9877"
+
+
+alias cleanStart="rm -rf node_modules && rm -rf package-lock.json && npm install"
+alias mock="yarn run start:mock"
+alias ls="colorls"
