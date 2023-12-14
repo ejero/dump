@@ -1,0 +1,38 @@
+alias console="~/console.sh ."
+alias qa="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 10137 'Cisco DNA Customer Experience' --port 4300"
+alias spaces="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 14729 'Spaces-test-Onboarding' --port 4300"
+alias prod="dna-spaces-cors-proxy https://dnaspaces.io '' '' 217 "CXC" --port 4300"
+alias north="dna-spaces-cors-proxy https://dnaspaces.io '' '' 16007 "NorthwesternMedicine" --port 4300"
+alias penn1="dna-spaces-cors-proxy https://dnaspaces.io '' '' 21289 "Penn1" --port 4300"
+alias kent="dna-spaces-cors-proxy https://dnaspaces.io '' '' 13062 "UniversityofKentucky" --port 9877"
+alias spacesLab="dna-spaces-cors-proxy https://dnaspaces.io '' '' 16374 'DNASpacesLAB' --port 4300"
+alias iot="dna-spaces-cors-proxy https://dev-dnaspaces.io '' '' 1888 'IOT-Wired' --port=4300"
+alias connector31="dna-spaces-cors-proxy https://dev-dnaspaces.io '' '' 2159 'connector31' --port=4300"
+alias devtest="dna-spaces-cors-proxy https://dev-dnaspaces.io '' '' 1686 'DNA Spaces IoT Dev Test' --port 4300"
+alias regression="dna-spaces-cors-proxy https://dev-dnaspaces.io '' '' 1936 'Regression-Account' --port=4300"
+alias kontakt="dna-spaces-cors-proxy https://dev-dnaspaces.io '' '' 1599 'EDM-Kontakt-Dev' --port=4300"
+alias lab14="dna-spaces-cors-proxy https://dev-dnaspaces.io '' '' 1625 'Lab-14-Dev-Setup' --port=4300"
+alias automation="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 13121 'automation-rtb1' --port=4300"
+alias qa2="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 11503 'EDM-QA-2' --port 4300"
+alias sid="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 10091 'dnaspacessidharth' --port 4300"
+alias prajakta="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 14665 'prdeosth_qa' --port 4300"
+alias stanley="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 14651 'STANLEY' --port 4300"
+alias sit="dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 14604 'automation-sit-qa-test' --port 4300"
+alias intel="dna-spaces-cors-proxy https://dnaspaces.io '' '' 5 'Intel'   --port=4300"
+alias issue="dna-spaces-cors-proxy https://dnaspaces.io '' '' 24103 'Spacestestonboarding' --port 4300"
+alias edm="nvm use 14; cd ~/Desktop/cisco/work/edm-ui"
+alias edmCleanStart="nvm use 14; cd ~/Desktop/cisco/work/edm-ui; rm -rf node_modules yarn.lock package-lock.json && npm install && npm run start:mock"
+
+
+
+alias cleannpm="rm -rf node_modules yarn.lock package-lock.json && pnpm-lock.yaml"
+
+alias cleannpminstall="rm -rf node_modules yarn.lock package-lock.json && npm install"
+alias cleannpmstart="cd ~/Desktop/cisco/work/edm-ui; rm -rf node_modules yarn.lock package-lock.json && npm install && npm run start:mock"
+
+alias cleanpnpminstall="rm -rf node_modules yarn.lock package-lock.json && pnpm-lock.yaml && pnpm install"
+alias cleanpnpmstart="rm -rf node_modules yarn.lock package-lock.json && pnpm-lock.yaml && pnpm install && pnpm run localhost"
+
+alias proxy="cd ~/Desktop/cisco/work/dna-spaces-cors-proxy;"
+alias fedramp="nvm use 20; cd ~/Desktop/cisco/work/fedrampv1/UI/"
+alias ls="colorls"
