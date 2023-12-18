@@ -1,0 +1,138 @@
+Mac@Cisco app search for VPN and renew cert
+git merge origin/master
+Spaces
+
+pto group.apanvalk(mailer list) <group.apanvalk@cisco.com> 
+ 
+PTO Email group group.apanvalk@cisco.com
+
+
+Start server 
+dnaspaces.io / home
+
+Dans-proxy
+dna-spaces-cors-proxy https://dnaspaces.io '' '' 217 "CXC" --port 4300 
+
+dna-spaces-cors-proxy https://dnaspaces.io '' '' 217 "CXC" --port 9877 
+
+D & L
+dna-spaces-cors-proxy https://dev-dnaspaces.io '' '' 1686 "DNA Spaces IoT Dev Test" --port 9877
+
+Admin Support Tool Log in
+dna-spaces-cors-proxy https://dev-dnaspaces.io '' '' 317 "OI Support Account" --port 9877
+
+QA DNA Spaces
+dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 10137 "Cisco DNA Customer Experience" --port 9877
+
+dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 11218 "Sharang" --port 9877
+dna-spaces-cors-proxy https://qa-dnaspaces.io '' '' 14534 "Zhimin" --port 9877
+
+
+
+Admin tool - Stats
+git merge origin/master 
+dna-spaces-cors-proxy https://dev-dnaspaces.io '' '' 317 "OI Support Account" --port 9877 
+
+treeData.unshift({ value: null, label: intl.formatMessage({ id: `${allCampuses}` }), isLeaf: true });
+
+
+
+Magnetic all packages
+npm search --registry https://engci-maven.cisco.com/artifactory/api/npm/magnetic-npm/ @magnetic/ 
+
+Update NVM
+Example: 
+nvm install 18.10.0
+nvm alias default 18.10.0
+
+nvm use default
+nvm ls
+
+
+OI Support Account
+
+
+User not assigned
+
+
+What is the account name for dev-sea 
+
+
+Api call will be 4300
+
+
+Tent customer name
+
+Amazon
+import { FormattedMessage, injectIntl, intlShape } from 'react-intl';
+
+59:a
+buttontext={buttonText || [intl.formatMessage({id:'cancel'}), intl.formatMessage({id:'confirm'})]}
+
+
+04:32:f4:59:a4:ef
+20:59:a0:41:d1:6d
+f2:16:59:ad:8d:62
+da:59:af:8d:fa:ba
+a2:59:a3:ac:93:3a
+
+
+Edm
+npm run start:mock
+yarn run start:mock
+
+nvm use 16 for EDM and core proxy 
+
+How to run node 16 as default .zshrc
+
+Proximity use 10 
+dna-spaces-cors-proxy https://dnaspaces.io '' '' 217 "CXC" --port 9877 
+
+Nvm use 10
+Npm link
+npm run start:mock
+
+
+
+Network tab, search for ‘assigned’
+Congratulations on creating your policy:
+Whats Next?
+Create another Policy
+
+
+
+Once done with ssh do this:
+1. Create a directory on your desktop for work
+2. then make another directory inside that one called edm
+3. copy this link https://wwwin-github.cisco.com/DNASpaces-edm/edm-ui  
+4. In terminal cd into edm directory 
+5. run this command ->  git clone https://wwwin-github.cisco.com/DNASpaces-edm/edm-ui
+6.  open a new tab in your terminal
+7. In the new tab run the command -> cd ..
+8. You should be in the work directory
+9. run this command cd 
+
+const getDataReadOnly = readOnlyConfiguredData.map(item => {
+    return {...item, key: `${intl.formatMessage({id: `${item.key}`})}:` }
+  })
+
+
+
+
+const getDataReadOnly = readOnlyConfiguredData.map(item => {
+  if (item.key) {
+    return {...item, key: `${intl.formatMessage({id: `${item.key}`})}:` };
+  } else {
+    return item;
+  }
+});
+
+
+Fed Ramp git workflow
+  0. Git stash
+1. Git checkout master
+2. Git pull
+3. Git checkout Fedramp (git pull origin Fedramp)
+4. Git checkout -b <branch name>
+5. Git stash apply
+
