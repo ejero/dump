@@ -1,0 +1,65 @@
+Webex spaces 
+
+Cisco spaces plus - webexteams://im?space=0cb532a0-be30-11e9-ac79-abb9c3929ee9
+Wise General - webexteams://im?space=004154a0-c5c9-11e8-8153-99e5bc0dbdf2
+Webex Space for Rosita - webexteams://im?space=1d37ead0-2626-11ed-b3bd-fb8b2f7f14cb
+Multi verse wise - webexteams://im?space=5dcaecb0-339f-11ed-8c64-09b79eab6feb
+Split license testing- webexteams://im?space=1123fb10-3bee-11ee-9f68-0170bfad1e51
+New Hire Questions - webexteams://im?space=3d2248c0-857c-11ee-8e2e-b1769eb3d668
+FedRamp fixes - webexteams://im?space=1f592580-8337-11ee-bd81-c5e42eaae4f4
+SJC Magnetic Adoption - webexteams://im?space=31efeb00-5832-11ee-88ad-35740729308f
+ETC-SJC: External Events/Announcements  - webexteams://im?space=ed37ffe0-2030-11e9-839d-37221d4b5cf8
+
+WoC- Capital Region -Job Postings - webexteams://im?space=7f9702f0-af8f-11ec-9c5c-fdc9a0025eaa 
+Apprentice Only - webexteams://im?space=afb449c0-4503-11ed-8836-a990e77ee69e
+Rise Cohort - webexteams://im?space=99ce5910-2df8-11ed-93b5-1b60fa6b1062 
+RISE Apprenticeship Cohort Announcements  - webexteams://im?space=3a0bcf30-2e2a-11ed-942a-bbf1ab832742
+
+Helpdesk: Cisco Secure - Open a ticket for this team: sbgsupport.zendesk.com or sbgsupp - webexteams://im?space=98733e00-3690-11e8-9e92-97fb33867313
+Cisco Devops Support - webexteams://im?space=0d463b60-ac39-11e8-8b95-cf22596a0355
+SBOM Discussions - webexteams://im?space=b24496a0-6584-11eb-8273-b193fb29b5d3
+Cats -  https://eurl.io/#VhFSEb7JH - webexteams://im?space=5e7747f0-a13b-11eb-85c9-612206d3ca8b 
+Magnetic UX Support - webexteams://im?space=57814fd0-d3e4-11ed-a975-972df1e25c08
+General  Connected Black Professionals - webexteams://im?space=fac2d8c0-0cef-11e7-8839-7354a3be9d1d
+WFH Step Challenge  - webexteams://im?space=cd459d90-678e-11ea-81cb-7be12387dac7 
+Chickonomics - https://eurl.io/#hHr8Jlg6z - webexteams://im?space=f2349de0-8047-11eb-a92a-8b841bf54e98
+Women of Cisco - Americas - webexteams://im?space=1a63efc0-2e83-11e7-8ad2-effa0c6b1853
+General Women of Cisco - webexteams://im?space=fe3f1b90-2738-11e7-8f17-d77bc8a9e64d
+CBP Music - Connected Black Professionals - webexteams://im?space=ffbb2540-d6f1-11ec-a90b-a1d42143f969
+General - RTP Emerging Talent - webexteams://im?space=fede0880-a45c-11e7-bed1-ffb73be0346b
+Generative AI Explorers | Join: https://eurl.io/#Z4vekB6ph - webexteams://im?space=e8c07b90-ce69-11ed-a3a3-2f3d6b8ba11a
+WISE RTP Community - webexteams://im?space=0e57c180-b3dc-11e9-9bb9-41b3f97dd476
+Travel Services - webexteams://im?space=d1192400-aa9b-11ea-816a-538e0db5359d
+ML/AI at Cisco Networking ! - webexteams://im?space=33ef08c0-9785-11eb-bad8-f944b0bb1033
+AWS Training and Certification - webexteams://im?space=413cd3f0-53a8-11ed-9412-0deebd16b0b8
+GAI Engineering Forum | Join: https://eurl.io/#k9dt-XxWv - webexteams://im?space=45931c90-6877-11ee-a591-d980a787c591
+ICX: Community Events - webexteams://im?space=015af3c0-49cb-11ed-a8c9-a5c01cd9f406
+Open source at Cisco - webexteams://im?space=32423160-f8fb-11ea-b64d-5594ce83d1b7
+ICX: Give Back Opportunities - webexteams://im?space=769b76e0-4c2e-11ed-9e96-0341fdc5bae4
+General Illuniminate_Networking - webexteams://im?space=29a6fbd0-c351-11ed-8dfe-ef0438d0b01e
+Magnetic Engineering Support - webexteams://im?space=f9e852f1-d3e4-11ed-a4ee-730e842f46ca
+Emerging Talent Job & Stretch Assignment Postings  https://eurl.io/#WI5POPdjx - webexteams://im?space=1cf77750-3b29-11eb-81cd-1d84bbb95223
+ICX: Development Programs - webexteams://im?space=16f026b0-4c2d-11ed-a54a-9180ccf3f594
+Cisco RTP/NC  Bicycling+Cycling - webexteams://im?space=5ed76540-63bc-11ee-b89f-8301892333aa
+CBP - Job Opportunities - webexteams://im?space=67e76f80-f7a3-11e7-9d72-d7f448ac2ab9
+Emerging Talent @ Cisco: Cybersecurity - webexteams://im?space=8cfca820-dbea-11ea-9d19-0579868ffb62
+General Cisco AI - webexteams://im?space=edff1ee0-928b-11e9-9328-c39716205d1d
+
+SPACES 
+All Wireless Team Room - webexteams://im?space=490fcbe0-a0cb-11ec-969f-db4a8fda9855
+Innovators - webexteams://im?space=1c6dd6a0-860d-11ec-9cf8-1329b537ada2
+UI Pull Request Approval - webexteams://im?space=f869f200-9828-11ed-b867-4f57867b151a
+Core UI All - webexteams://im?space=46486a10-3b99-11ee-8071-1de0b1d1230b
+Magnetic Design System Announcements - webexteams://im?space=7ab54640-b50f-11ec-9cd4-5b196308e6ba
+Cloud Location Engine Team - webexteams://im?space=4cffa020-0da8-11eb-9f6b-5132b0be3732
+Spaces Magnetic adoption support  - webexteams://im?space=bf3a4ca0-c4bf-11ed-8920-7f75b1b76773
+D&L-UI-discussion - webexteams://im?space=6b3edac0-d899-11ec-ac5a-55a92de03cac
+UI Hot Fixes  - webexteams://im?space=c07f84f0-096a-11ee-9c66-63e474e614cb
+UI Engineers - webexteams://im?space=4457c700-18f9-11ed-a873-d7bfc2800abb
+Admin Tool Changes - webexteams://im?space=5e192b20-a70b-11ed-a31a-3d54cfa9dc4c
+ Magnetic Engineering Support - webexteams://im?space=f9e852f1-d3e4-11ed-a4ee-730e842f46ca
+sjc-spaces-fedramp - webexteams://im?space=6ae023f0-799b-11ee-a546-7d02ad44b3b8
+Cloud Location Engine Team - webexteams://im?space=4cffa020-0da8-11eb-9f6b-5132b0be3732
+IndexDb Location Hierarchy - webexteams://im?space=dee0df90-de07-11ed-ab06-ddae93b684c4 
+Spetember 6,22 - Cisco Cool Cids webexteams://im?space=96561fc0-27f9-11ed-a359-47f35cb88d01
+Peter Cole - pecole@cisco.com 
